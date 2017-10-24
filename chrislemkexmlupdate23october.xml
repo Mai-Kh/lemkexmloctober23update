@@ -9,7 +9,7 @@
      <author> To be determined   </author>
      <year> To be determined   </year>
      <price> To be determined     </price>
-   <printed>
+   </printed>
   </item>
 
   <item>
@@ -21,7 +21,7 @@
      <price> To be determined </price>
      <description> Hand-carved tribal mask with shell inlay. Ideal for decoration, admiration of other cultures, and display around Halloween.
      </description>
-   <decoration>
+   </decoration>
   </item>
 
   <item>
@@ -32,7 +32,7 @@
      <year> Unknown   </year>
      <price> Not yet set  </price>
      <description> Images of owls burned into the wood, as a cedar box.</description>
-   <decoration>
+   </decoration>
   </item>
 
   <item>
@@ -43,7 +43,7 @@
      <year> Unknown </year>
      <price> Not yet set </price>
      <description> A different twist on a kitchen staple. Sure, you could buy a stainless steel creamer. But, why would you? What character does that give to your house? </description> 
-   <usableobject>
+   </usableobject>
   </item>
 
  <item>
@@ -54,7 +54,7 @@
      <year> Unknown </year>
      <price> Not yet set </price>
      <description>   This coin is based on the novella that Livingstone wrote. </description>
-   <antique>
+   </antique>
   </item>
 
 </booth>
