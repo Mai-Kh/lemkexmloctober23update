@@ -1,0 +1,15 @@
+<!DOCTYPE booth
+<!ELEMENT booth (item)>
+<!ELEMENT item (printed|decoration|usableobject|antique)> 
+<!ELEMENT printed (format, title, author, year, price)>
+<!ELEMENT decoration (format, name, maker, year, price, description)>
+<!ELEMENT usableobject (format, name, maker, year, price, description)>
+<!ELEMENT decoration (format, name, maker, year, price, description)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT format (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT maker (#PCDATA)>
